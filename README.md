@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**lurumad/lurumad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+     __    __            __  __                  __       __                      __        __  __ 
+    |  \  |  \          |  \|  \                |  \  _  |  \                    |  \      |  \|  \
+    | $$  | $$  ______  | $$| $$  ______        | $$ / \ | $$  ______    ______  | $$  ____| $$| $$
+    | $$__| $$ /      \ | $$| $$ /      \       | $$/  $\| $$ /      \  /      \ | $$ /      $$| $$
+    | $$    $$|  $$$$$$\| $$| $$|  $$$$$$\      | $$  $$$\ $$|  $$$$$$\|  $$$$$$\| $$|  $$$$$$$| $$
+    | $$$$$$$$| $$    $$| $$| $$| $$  | $$      | $$ $$\$$\$$| $$  | $$| $$   \$$| $$| $$  | $$ \$$
+    | $$  | $$| $$$$$$$$| $$| $$| $$__/ $$      | $$$$  \$$$$| $$__/ $$| $$      | $$| $$__| $$ __ 
+    | $$  | $$ \$$     \| $$| $$ \$$    $$      | $$$    \$$$ \$$    $$| $$      | $$ \$$    $$|  \
+     \$$   \$$  \$$$$$$$ \$$ \$$  \$$$$$$        \$$      \$$  \$$$$$$  \$$       \$$  \$$$$$$$ \$$
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:godmode: My name is Luis Ruiz. I'm a Lead Developer at [Plain Concepts](https://www.plainconcepts.com/) author and speaker based in Madrid, Spain.
+
+💻 I'm member of [Xabaril](https://github.com/Xabaril) a group of developers who build and maintain open source software for .NET ecosystem. My code is mainly focus in Microsoft Technologies and deployed to the ☁️ (Amazon, Azure & GPC).
+
+📫 You can reach me:
+
+* [My tech blog](https://lurumad.github.io/)
+* [Twitter](https://twitter.com/luisruizpavon)
+* [LinkedIn](https://www.linkedin.com/in/luisruizpavon/)
+* [Instagram](https://www.instagram.com/lurumad)
