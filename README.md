@@ -10,9 +10,9 @@
      \$$   \$$  \$$$$$$$ \$$ \$$  \$$$$$$        \$$      \$$  \$$$$$$  \$$       \$$  \$$$$$$$ \$$
 
 
-:godmode: My name is Luis Ruiz. I'm a Lead Developer at [Plain Concepts](https://www.plainconcepts.com/) author and speaker based in Madrid, Spain.
+:godmode: My name is Luis Ruiz. I'm a Principal Software Engineer at [Eventbrite](https://www.evenbrite.com/) author and speaker based in Madrid, Spain.
 
-💻 I'm member of [Xabaril](https://github.com/Xabaril) a group of developers who build and maintain open source software for .NET ecosystem. My code is mainly focus in Microsoft Technologies and deployed to the ☁️ (Amazon, Azure & GPC).
+💻 I'm member of [Xabaril](https://github.com/Xabaril) a group of developers who build and maintain open source software for .NET ecosystem. My code is mainly focus in Microsoft Technologies but currently I'm working with Python, Java and Kotlin and deployed to the ☁️ (AWS & Azure).
 
 📫 You can reach me:
 
